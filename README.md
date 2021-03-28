@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reitssu
-- 👀 I’m interested in phyton
+
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on telegram user bot
 - 📫 How to reach me search me on telegram @reitssu
